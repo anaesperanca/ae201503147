@@ -1,0 +1,15 @@
+# Bem-vindo ao meu site!
+
+Olá! Chamo-me Ana Esperança, estudante de **Saúde Digital** e **Inovação Biomédica**.
+
+Neste site, você encontrará informações sobre o meu percurso académico, projetos em que estou envolvido e como entrar em contacto comigo.
+
+---
+
+### Sobre mim
+- **Nome:** [Ana Esperança]
+- **Curso:** [Licenciatura em Saúde Digital e Inovação Biomédica]
+- **Instituição:** [Universidade do Porto]
+- **Interesses:** Farmácia, Investigação...
+
+---

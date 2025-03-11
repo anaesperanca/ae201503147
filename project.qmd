@@ -1,0 +1,6 @@
+# Projetos
+
+## Projeto: Rede de Referenciação de Ensaios Clínicos
+- **Descrição:** Com o novo regulamento europeu de ensaios clínicos o recrutamento será o fator mais importante para a competitividade de Portugal ao nível dos ensaios clínicos. A escala de alguns hospitais é insuficiente para permanecerem competitivos. Só em rede seremos mais capazes. A criação de uma rede de referenciação com a partilha de perfis e estudos de forma rápida e acessível seria crítica para recrutamento em tempo útil.
+
+- **Parceiro:** Johnson & Johnson
